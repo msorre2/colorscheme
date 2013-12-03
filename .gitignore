@@ -1,0 +1,4 @@
+colorscheme.egg-info/
+*.pyc
+dist/
+colorscheme/__pycache__
