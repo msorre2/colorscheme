@@ -9,10 +9,10 @@ Usage:
 
 `colorscheme`
 
-You can also pass the `-a` (or `--art`) optional argument to change the art. Current available values are:
+You can also pass the `-a` (or `--art`) optional argument to change the art. For example: 
 
-````
-colorscheme -a abcdef
-colorscheme -a invaders
-colorscheme -a pacman
-````
+`colorscheme -a pacman`
+
+To view all options:
+
+`colorscheme -h`
