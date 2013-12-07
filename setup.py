@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='colorscheme',
-    version='0.1',
+    version='0.2',
     url='https://github.com/gardaud/colorscheme',
     author='Guillaume Ardaud',
     author_email='gardaud@acm.org',
