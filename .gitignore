@@ -2,3 +2,4 @@ colorscheme.egg-info/
 *.pyc
 dist/
 colorscheme/__pycache__
+build/
