@@ -1,3 +1,5 @@
+![colorscheme -a dna](http://i.imgur.com/WAYUM8Q.png)
+
 A cute way to display your terminal colorscheme.
 Inspired by various posts on http://crunchbang.org/forums/viewtopic.php?pid=126921%23p126921#p126921
 
